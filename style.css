@@ -22,7 +22,7 @@ body {
     margin: auto;
     /* justify-content: center; */
     align-items: center;
-    height: 60vh;
+/*     height: 60vh; */
     background-image: url("https://wallpaperaccess.com/full/506856.jpg");
     overflow:auto;
     background-repeat: no-repeat;
@@ -91,4 +91,8 @@ p{
     .heading{
         height: 150px;
     }
+}
+.pura{
+    height:100vh;
+    overflow:auto;
 }
