@@ -6,7 +6,7 @@ body {
     height: 100vh;
     margin: 0;
     padding: 10px;
-/*     overflow: ; */
+    overflow: hidden;
     font-family: "Outfit", sans-serif;
     font-optical-sizing: auto;
     /* font-weight: <weight>;
@@ -24,7 +24,7 @@ body {
     align-items: center;
     /* height: 40vh; */
     background-image: url("https://wallpaperaccess.com/full/506856.jpg");
-    /* overflow:auto; */
+    overflow:auto;
     background-repeat: no-repeat;
     /* Prevent tiling */
     background-position: center center;
